@@ -1,2 +1,2 @@
-# SampleProject
+Project Gladiator
 via.com
